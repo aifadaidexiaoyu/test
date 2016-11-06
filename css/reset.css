@@ -1,0 +1,9 @@
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,input,button,textarea,p,blockquote,th,td { margin:0; padding:0; }
+body {text-align: center; font-size:12px; font-family: "ËÎÌו"}
+h1, h2, h3, h4, h5, h6 { font-weight:normal; font-size:100%; }
+a { color:#555; text-decoration:none;}
+a:hover{color:#999; text-decoration:none}
+/*a:hover { text-decoration:underline; }
+*/img { border:none; margin: 0px; padding: 0px;}
+ol,ul,li { list-style:none; }
+input, textarea, select, button { font:12px}
